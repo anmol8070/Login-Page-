@@ -1,7 +1,5 @@
 # Login Page Project 
 
-Login Page Project 
-
 ## Overview
 
 This project is a simple login page developed using HTML, CSS, PHP, and a MySQL database. It is designed to authenticate users with credentials stored in the database. The project runs on XAMPP, a popular open-source cross-platform web server solution stack package.
